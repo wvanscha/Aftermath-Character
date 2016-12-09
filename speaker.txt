@@ -1,0 +1,14 @@
+1
+16
+12
+14
+15
+13
+adventuring speaker: (bureaucracy;persuade;culture/any;history), choice, choice
+chieftain: combat/primitive, culture/traveller, history, persuade, survival
+diplomat: combat/any, culture/traveller, bureaucracy, navigation, persuade
+dynast: bureaucracy, combat/any, culture/any, persuade, artist
+rogue: combat/melee, culture/criminal, persuade, stealth, security
+prophet: combat/any, culture/any, persuade, history, religion
+trader: barter, combat/any, navigation, survival, vehicle/any
+war leader: athletics, combat/unarmed, combat/any, persuade, survival

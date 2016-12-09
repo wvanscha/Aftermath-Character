@@ -1,0 +1,14 @@
+2
+12
+15
+13
+16
+14
+adventuring slayer: (athletics;combat/any;perception;exosuit), choice, choice
+barbarian: athletics, combat/melee, combat/unarmed, perception, survival
+beasthunter: combat/any, navigation, perception, stealth, survival
+executioner: combat/unarmed, combat/any, culture/criminal, culture/traveller, survival
+gunslinger: combat/firearms, tech/low-tech, navigation, perception, survival
+nnoble warrior: combat/any, culture/any, bureaucracy, navigation, vehicle/land
+paladin: combat/any, navigation, persuade, religion, survival
+tribal champions: athletics, combat/primitive, combat/any, perception ,survival

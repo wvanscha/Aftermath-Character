@@ -1,0 +1,16 @@
+adventuring wastelander: culture/society, survival, choice
+bandit: combat/any, culture/criminal, stealth, survival
+city slicker: culture/society, culture/literacy, profession, choice
+elder: culture/society, history, persuade, survival
+entertainer: artist, culture/any, persuade, survival
+hunter: combat/any, culture/society, stealth, survival
+noble: combat/melee, culture/society, bureaucracy, persuade
+nomad: culture/society, navigation, survival, vehicle/land
+outcast: combat/any, culture/traveller, stealth, survival
+peasant: culture/society, athletics, survival, choice
+remnant: bureaucracy, culture/society, history, tech/high-tech
+clergy: culture/society, persuade, survival, religion
+scavenger: combat/any, culture/society, survival, tech/low-tech
+trader: culture/traveller, barter, persuade, survival
+tribal: combat/melee, combat/primitive, culture/society, survival
+wanderer: culture/traveller, navigation, perception, survival

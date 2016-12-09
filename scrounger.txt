@@ -1,0 +1,14 @@
+1
+16
+15
+13
+12
+14
+adventuring scrounger: (tech/any;vehicle/any;science;security), choice, choice
+crafter: combat/any, barter, persuade, tech/low-tech, tech/any
+mentor: combat/any, computer, history, tech/low-tech, tech/any
+miltech: combat/firearms, combat/any, science, security, tech/low-tech
+restorationist: combat/any, history, persuasion, tech/low-tech, survival
+retriever: combat/any, perception, security, tech/low-tech, stealth
+scientist: combat/any, computer, science, tech/low-tech, tech/any
+wandering tech: combat/any, navigation, tech/low-tech, survival, vehicle/any

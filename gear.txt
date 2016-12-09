@@ -1,0 +1,25 @@
+1,4,Ammunition 20 rounds             ,1,1
+5,8,Backpack TL4                     ,1,0
+9,12,Binoculars TL2                  ,1,1
+13,16,Blueprint +2 for a TL2/3 item   ,1,0
+17,20,Compass- Magnetic               ,1,0
+21,24,Crowbar                         ,1,1
+25,28,Firestarter TL4                 ,1,1
+29,32,Flasks of oil                   ,5,1
+33,36,Glowsticks                      ,3,0
+37,40,Lantern and 2 flasks of oil     ,1,3
+41,44,Low-light goggles TL3           ,1,1
+45,48,Medkit                          ,1,1
+49,52,Lockpicking kit                 ,1,1
+53,56,Medical stimpak doses           ,5,0
+57,60,Antidotal stimpak doses         ,2,0
+61,64,Rations                         ,4,0.33
+65,68,Rope 60 meters                  ,1,2
+69,72,Shovel                          ,1,1
+73,76,Spare set of Old Terran clothing,1,1
+77,80,Telescoping pole 10 feet long   ,1,1
+81,84,Tent                            ,1,4
+85,88,Road flares                     ,4,0
+89,92,Toolkit TL2                     ,1,1
+93,96,Type A power cells              ,2,0.5
+97,100,Utility Tarp                    ,1,1

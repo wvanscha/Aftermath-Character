@@ -1,0 +1,14 @@
+1
+12
+12
+14
+14
+13
+adventuring survivor: (athletics;navigation;tech/medical;survival), choice, choice
+stranger with no name: combat/any, culture/traveller, navigation, stealth, vehicle/any
+explorer: combat/any, history, navigation, security, survival
+healer: combat/any, navigation, perception, tech/medical, survival
+last of the breed: choice, combat/any, culture/any, history, survival
+family man: choice, choice, combat/any, culture/any, survival
+teacher: combat/any, culture/any, history, science, survival
+wild man: athletics, combat/any, navigation, tech/medical, survival

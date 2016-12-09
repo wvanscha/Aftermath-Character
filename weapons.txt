@@ -1,0 +1,7 @@
+primitive bow        ,2,1,0,1d6,50/75,20
+breechloading rifle  ,2,1,0,1d10+2,200/400,20
+hand-forged revolver ,2,1,0,1d8,30/100,20
+frag grenades        ,1,2,0,2d6,10/30,0
+spear                ,2,1,0,1d6,10/20,0
+salvaged laser pistol,1,1,1,1d6,100/300,10
+blade                ,1,1,0,1d8,0,0
